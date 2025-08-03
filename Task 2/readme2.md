@@ -19,8 +19,3 @@ LuxeLiving is a premium home decor and furniture e-commerce website designed for
 - Font Awesome (for icons)
 - Google Fonts (Montserrat)
 
-## Installation
-
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/yourusername/luxeliving.git
